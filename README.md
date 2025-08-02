@@ -25,9 +25,23 @@ This Power BI project is visualization of various mobile brands, models, storage
 21. resolution_width - Model resolution width
 
 # Some of the questions performed on the dataset for analysis
-1. Which are the top selling mobile brands or people's choice in India?
-2. Which are least selling brand?
+1. What is the top selling mobile brands or people's choice in India?
+2. Which models come under least selling brand?
 3. Under which cost range does each model falls?
 4. Which model is cheaper to afford?
 5. What is the cost of phone with maximum ram capacity?
-6. Which model has good ratings?
+6. Which rating range does most of models has?
+7. Which processor brand has highest count?
+8. Count of models having highest speed.
+9. Count of models supporting 5G.
+10. Count of phones with external memory availability.
+11. Count of phones having fast charging capacity.
+12. Finding which model has most internal memory.
+13. Which model has more pixel when capture by primary camera rear?
+14. Which model has more pixel when capture by primary camera front?
+15. Which model has maximum core?
+16. Which phone has maximum battery capacity?
+17. Screen size of most of the models
+18. What is the average refresh rate of top performing models?
+19. What is the average resolution rate of top performing models?
+20. Models having least internal memory.
