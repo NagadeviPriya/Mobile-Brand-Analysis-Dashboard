@@ -23,3 +23,11 @@ This Power BI project is visualization of various mobile brands, models, storage
 19. extended_memory_available - Model has external memory or not ((0-not available, 1-Available)
 20. resolution_height - Model resolution height
 21. resolution_width - Model resolution width
+
+# Some of the questions performed on the dataset for analysis
+1. Which are the top selling mobile brands or people's choice in India?
+2. Which are least selling brand?
+3. Under which cost range does each model falls?
+4. Which model is cheaper to afford?
+5. What is the cost of phone with maximum ram capacity?
+6. Which model has good ratings?
