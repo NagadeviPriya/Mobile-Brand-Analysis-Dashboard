@@ -62,7 +62,7 @@ This Power BI project is visualization of various mobile brands, models, storage
 
 4. Some of the least selling brands like lenovo, blackview, zte, blu, cat, doogee, tcl, tesla, vertu, sharp, leeco, leitz, duoqin, cola are cheaper to afford by most people.
 
-5. ASUS brand provides 2 models with high ram capacity of 18GB with price above 80k. Although APPLE is costlier it ram capacity is not greater than ASUS.
+5. ASUS brand provides 2 models with high ram capacity of 18GB with price above 80k. Although APPLE is costlier its ram capacity is not greater than ASUS.
 
 
 
