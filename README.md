@@ -45,3 +45,16 @@ This Power BI project is visualization of various mobile brands, models, storage
 18. What is the average refresh rate of top performing models?
 19. What is the average resolution rate of top performing models?
 20. Models having least internal memory.
+
+# Insights gained from the above questions
+1. Some of the Top 5 selling brands are Xiaomi,Samsung,vivo, reame and oppo. These brands provide more than 70 models with various pricing range 
+                  
+   <img width="1179" height="596" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/1ac1a285-be51-4094-8c7b-751571110079" />
+
+
+
+
+
+
+
+
