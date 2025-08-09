@@ -59,7 +59,7 @@ This Power BI project is visualization of various mobile brands, models, storage
 
 3. The count of most models fall under pricing range of 16k-30k. We have about 348 models in that range those which also includes top 5 brands as well. The models with count of 337 comes under pricing range of 0k-15k. Most of the least selling brands fall under this price category.
 
-  <img width="446" height="559" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/bc8be889-d259-4f1c-bb7e-ac07e05f966b" />
+   <img width="446" height="559" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/bc8be889-d259-4f1c-bb7e-ac07e05f966b" />
 
 
 4. Some of the least selling brands like lenovo, blackview, zte, blu, cat, doogee, tcl, tesla, vertu, sharp, leeco, leitz, duoqin, cola are cheaper to afford by most people.
@@ -70,12 +70,12 @@ This Power BI project is visualization of various mobile brands, models, storage
 
 6. Most of the models have rating range of 7-8 with model count of 507. Many popular brands like apple, xiaomi, samsung, vivo, realme, oppo, motorola, oneplus, poco has good ratings.
 
-<img width="442" height="215" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/b27bf289-0c39-4225-a51e-ebdc6a2e0730" />
+  <img width="442" height="215" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/b27bf289-0c39-4225-a51e-ebdc6a2e0730" />
 
 
 7. Processor brands like snapdragon, helio, dimensity are top 3 processors available in top model mobile phones.
 
-<img width="711" height="397" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/e720c1b9-5244-49d0-9d8c-6f90d849cc07" />
+  <img width="711" height="397" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/e720c1b9-5244-49d0-9d8c-6f90d849cc07" />
 
 
 8. Atmost 305 models have highest processor speed. The top brands like apple, xiaomi, samsung, vivo, realme, oppo, motorola, oneplus, poco comes with high processing speed that has snapdragon, helio, dimensity type of processors.
@@ -83,7 +83,7 @@ This Power BI project is visualization of various mobile brands, models, storage
 
 9. From the below chart we can find that almost 548 models out of 980 models has 5G support system.  This includes 55.92% percentage of total 980 models with 5G support feature.
 
-<img width="374" height="271" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/ba5fb810-8d20-4e87-8306-f47ad2eb7b89" />
+  <img width="374" height="271" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/ba5fb810-8d20-4e87-8306-f47ad2eb7b89" />
 
 
 10. The analysis shows that almost 616 models with external memory availability with average ratings of 7 and average price of 18.89k. These models also include 5G support and fast charging availability.
@@ -91,14 +91,17 @@ This Power BI project is visualization of various mobile brands, models, storage
 
 11. Fast charging is available in almost 835 phones with the percentage of 85.20% out of total 980 models.
 
-<img width="453" height="356" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/86c1c595-2434-4a15-ad36-10fd13d75e88" />
+    <img width="453" height="356" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/86c1c595-2434-4a15-ad36-10fd13d75e88" />
 
 
 12. From the data set gathered 4 models in apple and 1 model in samsung has internal memory of 1024GB. Brands like sony, asus, honor, huawei has 512GB of internal memory.
 
 
-13. 
+13. The below are some of the models with high pixels in rear camera.
+
+    <img width="724" height="530" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/a50459a5-4521-4952-97c6-8560a45c1224" />
 
 
+14. The below are some of the models with high pixels in front camera.
 
-
+    <img width="745" height="542" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/dfd77d34-c0b6-4e75-9f11-b3f82b7e6fdf" />
