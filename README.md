@@ -43,7 +43,7 @@ This Power BI project is visualization of various mobile brands, models, storage
 16. Which phone has maximum battery capacity?
 17. Screen size of most of the models
 18. What is the average refresh rate of top performing models?
-19. What is the average resolution rate of top performing models?
+19. What is the average ram capacity of top performing models?
 20. Models having least internal memory.
 
 # Insights gained from the above questions
@@ -70,12 +70,12 @@ This Power BI project is visualization of various mobile brands, models, storage
 
 6. Most of the models have rating range of 7-8 with model count of 507. Many popular brands like apple, xiaomi, samsung, vivo, realme, oppo, motorola, oneplus, poco has good ratings.
 
-  <img width="442" height="215" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/b27bf289-0c39-4225-a51e-ebdc6a2e0730" />
+   <img width="442" height="215" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/b27bf289-0c39-4225-a51e-ebdc6a2e0730" />
 
 
 7. Processor brands like snapdragon, helio, dimensity are top 3 processors available in top model mobile phones.
 
-  <img width="711" height="397" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/e720c1b9-5244-49d0-9d8c-6f90d849cc07" />
+   <img width="711" height="397" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/e720c1b9-5244-49d0-9d8c-6f90d849cc07" />
 
 
 8. Atmost 305 models have highest processor speed. The top brands like apple, xiaomi, samsung, vivo, realme, oppo, motorola, oneplus, poco comes with high processing speed that has snapdragon, helio, dimensity type of processors.
@@ -83,7 +83,7 @@ This Power BI project is visualization of various mobile brands, models, storage
 
 9. From the below chart we can find that almost 548 models out of 980 models has 5G support system.  This includes 55.92% percentage of total 980 models with 5G support feature.
 
-  <img width="374" height="271" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/ba5fb810-8d20-4e87-8306-f47ad2eb7b89" />
+   <img width="374" height="271" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/ba5fb810-8d20-4e87-8306-f47ad2eb7b89" />
 
 
 10. The analysis shows that almost 616 models with external memory availability with average ratings of 7 and average price of 18.89k. These models also include 5G support and fast charging availability.
@@ -105,3 +105,33 @@ This Power BI project is visualization of various mobile brands, models, storage
 14. The below are some of the models with high pixels in front camera.
 
     <img width="745" height="542" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/dfd77d34-c0b6-4e75-9f11-b3f82b7e6fdf" />
+
+
+15. The below are some of the models with detailed list of maximum number of core in mobile phones.
+
+    <img width="731" height="508" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/be009f95-1ce9-4c5b-9989-d73bcef0534e" />
+
+
+16. Almost 599 models have more than 5000mA that include all top brands with average ratings of 7 and average pricing of 21.76k.
+
+
+17. Most of the models comes with the average screen size of 6.8 inches with exceptions in some brands like vivo, xiaomi, oppo, samsung.
+
+    <img width="698" height="512" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/638e4fa6-0c6b-4ae9-a27c-fe9537b7cf24" />
+
+
+18. The top 10 performing models has an average refresh rate of 91.64 of which total refresh rate of 92.26.
+
+    <img width="569" height="565" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/38c6c000-a1aa-477d-bfc1-ed51d43c322e" />
+
+
+19. The top 10 performing models has an average ram capacity of 6.44 of which total refresh rate of 6.56.
+
+   <img width="553" height="585" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/045aff84-a116-4a97-b498-155f0211a80e" />
+
+20. From the observation it is found that models with 0-10k pricing range has less internal memory capacity. This is clear that as price range increases the internal storage capacity also increases.
+
+
+# Conclusion
+These insights helps to drive clear idea of how various brands and its models differ in their features like ram, processor, battery capacity, screen size, memory, price and ratings. The analysis can provide details like best selling brands, its price and ratings among people which can help manufactures find the competitors in business and increase their sales and productions.This insight is also useful for any individual who wants to compare various models and its features before buying mobile phone for their day to day usage. 
+    
