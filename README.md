@@ -30,7 +30,7 @@ This Power BI project is visualization of various mobile brands, models, storage
 3. Under which cost range does each model falls?
 4. Which model is cheaper to afford?
 5. What is the cost of phone with maximum ram capacity?
-6. Which rating range does most of models has?
+6. What is the rating range of most models?
 7. Which processor brand has highest count?
 8. Count of models having highest speed.
 9. Count of models supporting 5G.
@@ -63,6 +63,18 @@ This Power BI project is visualization of various mobile brands, models, storage
 4. Some of the least selling brands like lenovo, blackview, zte, blu, cat, doogee, tcl, tesla, vertu, sharp, leeco, leitz, duoqin, cola are cheaper to afford by most people.
 
 5. ASUS brand provides 2 models with high ram capacity of 18GB with price above 80k. Although APPLE is costlier its ram capacity is not greater than ASUS.
+
+6. Most of the models have rating range of 7-8 with model count of 507. Many popular brands like apple, xiaomi, samsung, vivo, realme, oppo, motorola, oneplus, poco has good ratings.
+
+<img width="442" height="215" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/b27bf289-0c39-4225-a51e-ebdc6a2e0730" />
+
+7. Processor brands like snapdragon, helio, dimensity are top 3 processors available in top model mobile phones.
+
+<img width="711" height="397" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/e720c1b9-5244-49d0-9d8c-6f90d849cc07" />
+
+
+
+
 
 
 
